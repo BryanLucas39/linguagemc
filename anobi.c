@@ -2,7 +2,7 @@
 
 main(){
     int ano;
-    printf("Digite um ano");
+    printf("Digite um ano\n");
     scanf("%d",&ano);
 
 if (ano %4 == 0){
